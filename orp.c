@@ -9,6 +9,6 @@ scanf("%d",&n);
 if(n%2==0)
 printf ("the value is even");
 else
-printf("the number is positive");
+printf("the number is odd");
 return 0;
 }
